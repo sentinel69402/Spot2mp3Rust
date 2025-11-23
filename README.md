@@ -73,8 +73,8 @@ brew install ffmpeg
 ### Build from Source
 
 ```bash
-git clone https://github.com/sentinel69402/Spot2mp3.git
-cd Spot2mp3
+git clone https://github.com/sentinel69402/Spot2mp3Rust.git
+cd Spot2mp3Rust
 cargo build --release
 ```
 
